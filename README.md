@@ -1,0 +1,2 @@
+# gradleProj-Jenkins
+junkins lecture
